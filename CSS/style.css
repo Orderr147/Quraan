@@ -3,7 +3,7 @@
 }
 /* Header */
 .header{
-    background:linear-gradient(to top, rgb(0,0,0,0.5)70%, rgb(0,0,0,0.5)30%),url(   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqSknuZe4ZuhhqgGzAiCShNTyVoDzRbCu9g&usqp=CAU );
+    background:linear-gradient(to top, rgb(0,0,0,0.5)70%, rgb(0,0,0,0.5)30%),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqSknuZe4ZuhhqgGzAiCShNTyVoDzRbCu9g&usqp=CAU);
     box-sizing: border-box;
     scroll-behavior: smooth;
     width: 100%;
